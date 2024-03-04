@@ -1,0 +1,9 @@
+title: You Lose
+originalAuthor: danimalforlife
+description: L A T E R L O O Z E R S !
+
+assets:
+- name: remastered\obj\N_EX760_BTL.a.us\-17.dds
+  method: copy
+  source:
+  - name: loser\lose.dds
